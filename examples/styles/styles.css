@@ -1,0 +1,55 @@
+body {
+  background-color: black;
+  background-position: center center;
+  
+  margin: 0;
+  max-width: 100%;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+#contacto{
+
+}
+#contacto img{
+  display: block;
+  position: fixed;
+  margin-bottom: 50px;
+  width: 100%;
+  
+}
+#fondo{
+
+}
+#fondo img{
+  max-width: 100%;
+  position: absolute;
+  z-index: -1;
+}
+
+.scene {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.layer:nth-child(1) {
+  opacity: 1;
+}
+.layer:nth-child(2) {
+  opacity: 1;
+}
+.layer:nth-child(3) {
+  opacity: 1;
+}
+.layer:nth-child(4) {
+  opacity: 1;
+}
+.layer:nth-child(5) {
+  opacity: 1;
+}
+.layer:nth-child(6) {
+  opacity: 1;
+}
